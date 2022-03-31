@@ -1,3 +1,5 @@
+### This scrirpt was made by Daehan Lee.
+
 library(dplyr)
 library(tidyr)
 library(ggplot2)
